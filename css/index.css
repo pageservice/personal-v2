@@ -1,0 +1,49 @@
+/* 상단영역 */
+header{
+
+}
+header h1{
+  color:red;
+}
+header h1 a{
+   
+}
+header ul{
+  display: flex;
+  gap: 20px;
+}
+header ul li{
+   
+}
+header ul li a{
+   
+}
+/* 타이틀 영역 */
+div#title{
+  background-color: #eee;
+}
+div.wrap{
+  width: 1440px;
+  margin: 0 auto;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  background-image: url(https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=2113&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position: center bottom;
+}
+div h2{
+
+}
+div p{
+  
+}
+
+
+
+
+
+
